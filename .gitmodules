@@ -1,0 +1,9 @@
+[submodule "passport-session"]
+	path = passport-session
+	url = https://github.com/BornetFloryan/Authentification-avec-Passport-Local-et-Session
+[submodule "jwt-token"]
+	path = jwt-token
+	url = https://github.com/BornetFloryan/Authentification-avec-JWT-JSON-Web-Token-
+[submodule "oauth2-google-chat"]
+	path = oauth2-google-chat
+	url = https://github.com/BornetFloryan/Authentification-OAuth2-avec-Google-et-Chat-en-temps-reel
